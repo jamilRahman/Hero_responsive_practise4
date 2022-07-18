@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+}
+
+/*---------------------Header-----------------------------*/
+.header{
+
+    display: flex;
+}
+.header a{
+  
+    text-decoration: none;
+}
+.nav{
+ 
+    margin-left: 120px;
+    margin-top: 24px;
+    font-size: 21px;
+
+}
+/*---------------------influencer-----------------------------*/
+.influencer{
+    display: flex;
+}
+.influencer1{
+    font-size: 61px;
+}
+.influencer3{
+    background-image: url(images/Circle design.svg);
+}
+.influencer2{
+    text-decoration: none;
+    color: white;
+    background-color: deeppink;
+    border-radius: 19px;
+    padding: 11px 43px;
+    font-weight: bold;
+}
